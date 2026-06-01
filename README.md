@@ -11,6 +11,7 @@ Construyendo proyectos reales desde 2° semestre.
 
 ## 📌 Proyectos
 - [Calculadora Financiera](https://github.com/sant1sz/Calculadora-financiera-java) — Herramienta de consola en Java para cálculos administrativos
+- [Gestor de notas universitarias](https://github.com/sant1sz/gestor-notas-universitarias)
 
 ## 📫 Contacto
 - LinkedIn: linkedin.com/in/santiago-sanchez-ramirez
