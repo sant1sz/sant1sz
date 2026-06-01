@@ -1,4 +1,4 @@
-# Hola, soy Santiago Sánchez 👋
+# Hola, soy Santiago Sánchez 
 
 Estudiante de Ingeniería de Sistemas en Medellín, Colombia.
 Construyendo proyectos reales desde 2° semestre.
